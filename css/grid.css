@@ -26,8 +26,8 @@ https://www.youtube.com/watch?v=uUGHF0dM6GA
 }
 
 .container-fluid .row {
-  max-width: 992px;
-  margin: 0 auto;
+    max-width: 992px;
+    margin: 0 auto;
 }
 
 /** Hack de clearfix **/
